@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Gamedev Canvas Workshop</title>
+</head>
+
+
+<script>
+function showTime(){
+　document.getElementById("click").innerHTML = new Date();
+　setTimeout("showTime()",1000);
+}
+
+</script>
+<body>
+<body onload="showTime()">
+<div id="click"></div>
+
+</body>
+</html>
