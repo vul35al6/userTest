@@ -1,0 +1,70 @@
+﻿HTML5 課程大綱
+==============
+
+授課時數: 36 小時
+（每節三小時，第 7、9、11 節課上課時間為四小時）
+
+
+Block 1  HTML
+- 上課環境與操作說明
+- 常用HTML元素
+
+
+Block 2  CSS
+- Selector 語法重點
+- 常用 CSS 指令
+
+
+Block 3  Bootstrap 網站實作
+- 試用與自訂 Bootstrap 套件 
+- 練習 Bootstrap 的版面分割功能 
+- 解說 Bootstrap 的色彩系統 
+- 試用 Bootstrap 常用元件 
+
+
+Block 4, 5  JavaScript
+- JavaScript 語法要點 
+- JSON 語法與資料處理 
+- 簡介演算法與解決方案
+
+
+Block 6  JavaScript 與 HTML
+- JavaScript 如何綁定事件與事件處理函式 
+- 解說與使用 Event Object 
+- Event Bubbling、propagation 與 preventDefault 觀念解說 
+- 實作 HTML5 的拖放功能(Drag and Drop)
+
+
+Block 7  jQuery
+- 以 jQuery 存取元素內容與屬性 
+- 以 jQuery 調控 CSS 樣式 
+- jQuery 事件處理函式 
+- 其他常用 jQuery API
+
+
+Block 8, 9  Canvas
+- Canvas 2D Rendering Engine 簡介 
+- 色彩與樣式 
+- 如何畫線、弧、矩型、文字、圖片。 
+- 作圖區域的座標位移、旋轉、縮放與裁切。 
+- Canvas 2D Rendering Engine 的 getImageData() 與影像處理 
+- Data URIs 簡介與 Canvas.toDataURL() 函式使用說明
+- 常用數學與物理公式 
+- 實例研討一步一步完成範例遊戲
+
+
+Block 10  表單設計與資料處理
+- 表單與各式控制項的語法及其注意事項 
+- Bootstrap 的表單設計 
+- Server 端例如 PHP 與 ASP.NET 如何接收並處理資料 
+
+
+Block 11  AJAX 通訊整合 
+- AJAX 觀念與應用實例 
+- jQuery 的 AJAX 相關 API 函式 
+- 以 jQuery 整合 RESTful 網路服務 
+- Same Origin Policy 限制與跨網域傳輸解決方案
+- LocalStorage 與 SessionStorage 
+- JSON 與資料處理 
+- OpenData 與資料 CRUD
+
